@@ -10,5 +10,5 @@ pulls_2014-2018.csv contains identical information, and spans from 2014 up to 20
 pull_files.csv contains the files that were modified by each pull request.
 
 ## Modules Used:
-*Pandas
-*Matplotlib
+* Pandas
+* Matplotlib
