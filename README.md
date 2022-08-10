@@ -1,4 +1,12 @@
 # datacamp-i4g
-This repository contains my practice codes and notebooks during my scholarship with I4G on DataCamp
+This repository contains my projects codes and notebooks during my scholarship with I4G on [DataCamp](https://datacamp.com)
+I aaplied and got a scholarship from [Ingressive4Good](https://twitter.com/Ingressive4Good). The scholarship started in May 2022 and ended in September 2022.
+I enrolled in the [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6) career track after completing the introductory [Data Science for Everyone course](https://app.datacamp.com/learn/courses/data-science-for-everyone).
+The projects were both guided and unguided.
 
-Thanks to Ingressive4Good and DataCamp for the 6 months scholarship awarded to me. The scholarship started in Feb 2022 and ends on 1st October 2022. On the DataCamp platform, I enrolled in the following career tracks:
+## Guided Projects:
+1. [Investigating Netflix Movies Length](https://github.com/Olarsk/datacamp-i4g/tree/main/Investigating%20Netflix%20Movies)
+2. [The Android App Market on Google Play](https://github.com/Olarsk/datacamp-i4g/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
+3. [The Github History of the Scala Project](https://github.com/Olarsk/datacamp-i4g/tree/main/The%20Github%20History%20of%20the%20Scala%20Project)
+
+## Unguided Projects:
