@@ -9,5 +9,6 @@ The projects were both guided and unguided.
 2. [The Android App Market on Google Play](https://github.com/Olarsk/datacamp-i4g/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 3. [The Github History of the Scala Project](https://github.com/Olarsk/datacamp-i4g/tree/main/The%20Github%20History%20of%20the%20Scala%20Project)
 4. [A visual History of Nobel Price Winners](https://github.com/Anzaksen/datacamp_projects/tree/main/Guided/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
+5. [Exploring the History of Lego](https://github.com/Olarsk/datacamp-i4g/tree/main/Exploring%20the%20Histoy%20of%20Lego)
 
 ## Unguided Projects:
