@@ -10,5 +10,6 @@ The projects were both guided and unguided.
 3. [The Github History of the Scala Project](https://github.com/Olarsk/datacamp-i4g/tree/main/The%20Github%20History%20of%20the%20Scala%20Project)
 4. [A visual History of Nobel Price Winners](https://github.com/Anzaksen/datacamp_projects/tree/main/Guided/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 5. [Exploring the History of Lego](https://github.com/Olarsk/datacamp-i4g/tree/main/Exploring%20the%20Histoy%20of%20Lego)
+6. [Dr Semmelweis and the Discovery of Handwashing](https://github.com/Olarsk/datacamp-i4g/tree/main/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 
 ## Unguided Projects:
