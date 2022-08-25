@@ -12,5 +12,6 @@ The projects were both guided and unguided.
 5. [Exploring the History of Lego](https://github.com/Olarsk/datacamp-i4g/tree/main/Exploring%20the%20Histoy%20of%20Lego)
 6. [Dr Semmelweis and the Discovery of Handwashing](https://github.com/Olarsk/datacamp-i4g/tree/main/Dr%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 7. [Exploring the Bitcoin Cryptocurrency Market](https://github.com/Olarsk/datacamp-projects/tree/main/A%20Visual%20History%20of%20Nobel%20Price%20Winners)
+8. [Predicting Credit Card Approvals](https://github.com/Olarsk/datacamp-projects/tree/main/Predicting%20Credit%20Card%20Approvals)
 
 ## Unguided Projects:
