@@ -1,7 +1,7 @@
 # datacamp-i4g
 This repository contains my projects codes and notebooks during my scholarship with I4G on [DataCamp](https://datacamp.com)
 I aaplied and got a scholarship from [Ingressive4Good](https://twitter.com/Ingressive4Good). The scholarship started in May 2022 and ended in September 2022.
-I enrolled in the [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6) career track after completing the introductory [Data Science for Everyone course](https://app.datacamp.com/learn/courses/data-science-for-everyone). After completinf the Data Scientist Track, I found out I needed to learn SQL in order to get attempt the certification examination, so I went on to complete the [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=2) career track.
+I enrolled in the [Data Scientist with Python](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=6) career track after completing the introductory [Data Science for Everyone course](https://app.datacamp.com/learn/courses/data-science-for-everyone). After completing the Data Scientist Track, I found out I needed to learn SQL in order to get attempt the certification examination, so I went on to complete the [Data Analyst in SQL](https://app.datacamp.com/learn/career-tracks/data-analyst-in-sql?version=2) career track.
 
 ##Python
 1. [Investigating Netflix Movies Length](https://github.com/Olarsk/datacamp-i4g/tree/main/Investigating%20Netflix%20Movies)
